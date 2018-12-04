@@ -1,0 +1,10 @@
+[14-Mar-2018 20:33:03 Asia/Calcutta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lc7ojqmr/public_html/emns/admin/views/senotification.php on line 469
+[14-Mar-2018 20:33:03 Asia/Calcutta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lc7ojqmr/public_html/emns/admin/views/senotification.php on line 492
+[14-Mar-2018 20:33:03 Asia/Calcutta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/lc7ojqmr/public_html/emns/admin/views/senotification.php on line 518
+[15-Mar-2018 04:45:51 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/lc7ojqmr/public_html/emns/admin/views/reportevent.php on line 14
+[15-Mar-2018 04:46:10 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/lc7ojqmr/public_html/emns/admin/views/reportevent.php on line 14
+[15-Mar-2018 04:46:13 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/lc7ojqmr/public_html/emns/admin/views/reportevent.php on line 14
+[15-Mar-2018 10:17:31 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Call to undefined function starttotime() in /home/lc7ojqmr/public_html/emns/admin/views/reportevent.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/lc7ojqmr/public_html/emns/admin/views/reportevent.php on line 19
