@@ -7,8 +7,8 @@ $siteName = "Cipet.in";
 //DEFINE("BASE_URL","http://cipetbhopal.com/");
 //DEFINE("BASE_URL","http://localhost/oes/");
 
-DEFINE ('DB_USER','lc7ojqmr');
-DEFINE ('DB_PSWD','Yash@1997'); 
+DEFINE ('DB_USER','');
+DEFINE ('DB_PSWD',''); 
 DEFINE ('DB_HOST','mysql7002.site4now.net'); 
 DEFINE ('DB_NAME','lc7ojqmr_emns'); 
 
